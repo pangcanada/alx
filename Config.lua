@@ -4,12 +4,12 @@
 
 _G.YOKUDO = {
     -- Hub Info
-    Name = "YOKUDO HUB | Steal An Egg",
-    Version = "by : S4 ",
+    Name = "OLA 😪 | Steal An Egg",
+    Version = "by : OLA ",
     Author = "Yokudo",
 
     -- Asset
-    AssetID = "rbxassetid://101352576986760",
+    AssetID = "rbxassetid://7873533086",
 
     -- UI
     UI = {
